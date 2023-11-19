@@ -84,7 +84,7 @@ async def start_comm(client, message: Message, _):
                     details = stats.get(vidid)
                     title = (details["title"][:35]).title()
                     if vidid == "telegram":
-                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/LOVE_FEELINGS_WILL) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
+                        msg += f"🔗[ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ](https://t.me/Zidd_Bot) ** ᴩʟᴀʏᴇᴅ {count} ᴛɪᴍᴇs**\n\n"
                     else:
                         msg += f"🔗 [{title}](https://www.youtube.com/watch?v={vidid}) ** played {count} times**\n\n"
                 msg = _["ustats_2"].format(tot, tota, limit) + msg
@@ -151,9 +151,9 @@ async def start_comm(client, message: Message, _):
 📎 **ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ:** [ᴠɪsɪᴛ ᴄʜᴀɴɴᴇʟ]({channellink})
 🔗 **ʟɪɴᴋ:** [ᴡᴀᴛᴄʜ ᴏɴ ʏᴏᴜᴛᴜʙᴇ]({link})
 
-**💞🌹ᴀᴀʀᴏʜɪ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ🌹💞**
+**💞🌹Asʜɪsʜ ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴏ ᴍᴜᴄʜ🌹💞**
 
-|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ᴅɪʟ❣️](https://t.me/Honey_Singh_121) 🥀 ||
+|| ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [Asʜɪsʜ❣️](https://t.me/II_ASHISH_GUPTA_IIl) 🥀 ||
 
 ᴀɪᴍ[💖] sᴇᴀʀᴄʜ ᴩᴏᴡᴇʀᴇᴅ ʙʏ {config.MUSIC_BOT_NAME}"""
             key = InlineKeyboardMarkup(
@@ -163,7 +163,7 @@ async def start_comm(client, message: Message, _):
                             text="🍃•ʏᴏᴜᴛᴜʙᴇ•🍃", url=f"{link}"
                         ),
                         InlineKeyboardButton(
-                            text="🍁•sᴜᴩᴩᴏʀᴛ[ᴅɪʟ❣️]🍁•", url="https://t.me/LOVE_FEELINGS_WILL"
+                            text="🍒̵̶⃰͟˶֟፝͟͝sᴜᴩᴩᴏʀᴛ⏎͟🝛꯭•", url="https://t.me/II_ASHISH_GUPTA_IIl"
                         ),
                     ],
                 ]
