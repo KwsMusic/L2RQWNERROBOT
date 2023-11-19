@@ -11,8 +11,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
     x, y = str(round(played_sec/total_sec,1)).split(".")
     pos = int(y)
 
-    line = "╌"
-    circle = "🦋ᴇɴᴅ🦋"
+    line = "╌╌"
+    circle = "⋆»"
 
     bar = line*(pos-1)
     bar += circle
@@ -42,7 +42,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text="➕ ✨ ᴩʟᴀʏʟɪsᴛ ✨ ➕",
+                text="📡 ʙʏ ⋆» ᴀsʜɪsʜ✨🇮🇳🕊️",
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
@@ -141,7 +141,7 @@ def stream_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="➕ ✨ ᴩʟᴀʏʟɪsᴛ ✨ ➕",
+                text="📡 ʙʏ ⋆» ᴀsʜɪsʜ✨🇮🇳🕊️",
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
@@ -332,7 +332,7 @@ def queue_markup(_, videoid, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="➕ ✨ ᴩʟᴀʏʟɪsᴛ ✨ ➕",
+                text="📡 ʙʏ ⋆» ᴀsʜɪsʜ✨🇮🇳🕊️",
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
