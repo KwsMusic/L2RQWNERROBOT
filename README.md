@@ -3,12 +3,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">
-    ──「 ᴀᴀʀᴏʜɪ ✘ ᴍᴜsɪᴄ 」──
+    ──「 ༄𝐿 2 𝙍.🖤🜲 𝗢 𝙒 𝗡 𝐄 𝐑🥀✘•⚜️• 」──
 </h2>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg"></a></p>
+<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://i.postimg.cc/QMt2kYS5/20231117-233101.png"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -28,7 +28,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
+  <img src="https://i.postimg.cc/QMt2kYS5/20231117-233101.png">
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -37,7 +37,7 @@
     ─「 ❣️ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❣️ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz/AAROHIxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/KwsMusic/L2RQWNERROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -100,11 +100,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BWF_MUSIC1"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MUSICBOT_OWNER"(https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -151,9 +151,9 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://t.me/L2R_KING0"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/HONEY_SINGH_121) </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/L2R_KING0) </b>
