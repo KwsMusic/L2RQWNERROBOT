@@ -13,20 +13,20 @@ API_HASH = getenv("API_HASH", "")
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", "")
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001898745590"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001822336951"))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "")
 
-OWNER_ID = list(map(int, getenv("OWNER_ID", "2107529793").split()))
+OWNER_ID = list(map(int, getenv("OWNER_ID", "6052880487").split()))
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/stkeditz/AAROHIxMUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/KwsMusic/L2RQWNERROBOT")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/LOVE_FEELINGS_WILL")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/LOVE_FEELINGS_WILL")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MUSICBOT_OWNER")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/BWF_MUSIC1")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
  
@@ -76,14 +76,14 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.postimg.cc/QtJ5MjNN/20231117-233810.png")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/a70c01f7564e558b7af0d.png",
+    "https://i.postimg.cc/QMt2kYS5/20231117-233101.png",
 )
 
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/e68f585a0a2e4e5dc1164.jpg"
+PLAYLIST_IMG_URL = "https://i.postimg.cc/QtJ5MjNN/20231117-233810.png"
 
 GLOBAL_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
 
@@ -97,7 +97,7 @@ STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
 
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 
-YOUTUBE_IMG_URL = "https://te.legra.ph/file/53f1a295e172d39eaa39d.jpg"
+YOUTUBE_IMG_URL = "https://i.postimg.cc/QMt2kYS5/20231117-233101.png"
 
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg"
 
@@ -130,9 +130,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://telegra.ph/file/56d1760224589ee370186.jpg"
+            PING_IMG_URL = "https://i.postimg.cc/QMt2kYS5/20231117-233101.png"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://te.legra.ph/file/0c373d33859cd378dcafe.jpg"
+            START_IMG_URL = "https://i.postimg.cc/QtJ5MjNN/20231117-233810.png"
