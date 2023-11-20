@@ -1,4 +1,4 @@
-### ❣️ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴀᴀʀᴏʜɪ ᴡᴏʀʟᴅ❣️
+### ❣️⏤͟͟͞❥͜͡𝄟⃟❤M𝐢𝐬𝐬🦋્᭄͜͡𝗡𝐢𝐬🇭Ⓐ❀❱⏤͟͟͢͞͞❥᛫᛫᛫𓆩 ⃝⃪⃕ 👑🧸❣️
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"><a href="https://t.me/HONEY_SINGH_121"><img src="https://i.postimg.cc/QMt2kYS5/20231117-233101.png"></a></p>
+<p align="center"><a href="http://t.me/L2R_KING0"><img src="https://i.postimg.cc/QMt2kYS5/20231117-233101.png"></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
